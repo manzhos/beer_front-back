@@ -1,0 +1,17 @@
+/* @import "~materialize-css/dist/css/materialize.min.css"; */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.spaser30 {
+  width: 100%;
+  height: 30px;
+}
+
+.spacer10 {
+  width: 100%;
+  height: 10px;
+}
+
+.spacerleft15 {
+  display: inline-block;
+  width: 10px;
+}

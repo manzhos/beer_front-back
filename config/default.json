@@ -1,0 +1,6 @@
+{
+  "port": 6000,
+  "jwtSecret": "man-man",
+  "mongoUri": "mongodb+srv://manzhos:zqs3ROG4@cluster0.jrv98.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:6000"
+}
